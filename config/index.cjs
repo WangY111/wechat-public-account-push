@@ -8,10 +8,10 @@
 const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_ID
-  APP_ID: '',
+  APP_ID: 'wx4da8b17d984aa641',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '',
+  APP_SECRET: '24a693df80ea11b5761c1aaeb8564d2b',
 
   PROVINCE: '山东',
   CITY: '济宁',
